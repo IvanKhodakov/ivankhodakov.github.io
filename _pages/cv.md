@@ -11,54 +11,55 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+
+* ENS Lyon, Dual Degree in Computer Science, 2025-2027
+
+* Télécom Paris, M1 specialization in Image Processing and Data Science, 2022 – 2024
+  * Maths : Statistics, Optimisation, Probability, Fourier Analysis.
+  * ML/AI : Supervised and Unsupervised ML, Graph Learning, Neuro-Symbolic AI, Trees, SVM, CNN, VAE,
+  GAN, Transformer, Diffusion Models, NLP, LLMs.
+  * Image processing and Computer Vision : Segmentation, Boundary detection, Object Recognition, Image
+  registration, Restoration, Compression. Using Variational and Bayesian methods, Markov random fields,
+  Graphs.
+
+* Lycée Janson de Sailly Preparatory class PC** (Physics/Chemistry), 2019 – 2022
+  * An intensive post-secondary program preparing for national competitive exams to get into engineering
+  schools (Mathematics, Physics, Chemistry, Computer Science, English, Philosophy).
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Research Internship (Gap Year) at Orosound, March 2025 – Sept 2025
+  * Working on knowledge distillation to reduce complexity of personalized speech enhancement models.
+  * Publication to ICASSP 2026.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Internship (Gap Year) Télécom Paris, Sept 2024 – Febr 2025
+  * Working with Enzo Tartaglione and Ekaterina Iakovleva on Machine Unlearning.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* President of a student humanitarian association Télespoir, 2023 – 2024
+  * Led a one-month humanitarian mission in Senegal with a team of 7 students, successfully renovating 4
+  classrooms and constructing 2 new ones.
+  * Raised €9,000 through grant application and event organization.
+  * Managed a social grocery store and coordinated food distribution efforts in Paris with a team of 14 members.
+
+* Events departement manager Forum T´el´ecom Paris, 2023 – 2024
+  * Successfully organized student events with hundreds of participants.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+
+* ICASSP 2026  : 'DUALDF: A LIGHTWEIGHT PERSONALIZED SPEECH ENHANCEMENT SYSTEM OBTAINED THROUGH KNOWLEDGE DISTILLATION'
+
+
+Portfolio
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+* Research project on StyleGAN2, June 2024
+  * Editing of face images by manipulating latent codes. To exhibit semantics I used PCA and SVMs.
+* Skin Lesion Classification - ISIC dataset, April 2024
+  * Scored among the best in a Kaggle competition. The aim was to classify skin lesions into 9 classes. Tools Used: CNN, Resnet50, Pytorch, Data Augmentation, Feature Extraction.
+* Other Projects, 2023
+  * Predict the outcome of a football match : Cleaning data, feature engineering. Tools Used : XGBoost, Weights and Biases.
+  * Detection JPEG compression and forgeries in Python in image using algorithms like the DCT of the images.
+  * Creation of a mobile recipe application with carbon footprint computation.

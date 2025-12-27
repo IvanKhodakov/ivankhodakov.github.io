@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "JPEG forgeries detection"
+excerpt: "Detection of JPEG forgeries in Python in image using algorithms like the DCT of the images <br/><img src='/images/jpeg.png'>"
+date : "November 2023"
 collection: portfolio
+
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+See [GitHub](https://github.com/IvanKhodakov/JPEG-forgeries-detector "GitHub") for more informations.

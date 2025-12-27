@@ -1,63 +1,89 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Ivan Khodakov",
+    "email": "ivan.khodakov@ens-lyon.fr",
+    "phone": "+33 6 12 35 54 68",
+    "website": "https://ivan-khodakov.github.io",
+    "summary": "",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "IvanKhodakov",
+        "url": "https://github.com/IvanKhodakov"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Orosound",
+      "position": "Research Internship",
+      "website": "",
+      "startDate": "March 2025",
+      "endDate": "Sept 2025",
+      "summary": "",
+      "highlights": [
+        "Working on knowledge distillation to reduce complexity of personalized speech enhancement models.",
+        "Leading to a publication at ICASSP 2026.",
+        "This was the second internship I did during my gap year."
+      ]
+    },
+    {
+      "company": "Télécom Paris",
+      "position": "Research Internship",
+      "website": "",
+      "startDate": "Sept 2024",
+      "endDate": "Febr 2025",
+      "summary": "",
+      "highlights": [
+        "Working with Enzo Tartaglione and Ekaterina Iakovleva on Machine Unlearning.",
+        "This was the first internship I did during my gap year."
+      ]
+    },
+    {
+      "company": "Télespoir",
+      "position": "President of a student humanitarian association T\u00e9lespoir",
+      "website": "https://telespoir.fr/",
+      "startDate": "2023",
+      "endDate": "2024",
+      "summary": "",
+      "highlights": [
+        "Led a one-month humanitarian mission in Senegal with a team of 7 students, successfully renovating 4classrooms and constructing 2 new ones",
+        "Raised 9,000\u20ac through grant application and event organization.",
+        "Managed a social grocery store and coordinated food distribution efforts in Paris with a team of 14 members."
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "ENS Lyon - École Normale Supérieure de Lyon",
+      "area": "Computer Science",
+      "studyType": "Dual Degree",
+      "startDate": "2025",
+      "endDate": "2027",
       "gpa": null,
-      "courses": []
+      "courses": ["Linear and Non Linear Optimization",
+                  "Parallel Algorithms and Programs",
+                  "Cryptography and Security",
+                  "Compilation and Program Analysis",
+                  "Network Measurement"
+                ]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Télécom Paris - Institut Polytechnique de Paris",
+      "area": "Image Processing & Data Science",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2022",
+      "endDate": "2024",
       "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "courses": ["Maths : Statistics, Optimisation, Probability, Fourier Analysis.",
+                  "ML/AI : Supervised and Unsupervised ML, Graph Learning, Neuro-Symbolic AI, Trees, SVM, CNN, VAE, GAN, Transformer, Diffusion Models, NLP, LLMs.",    
+                  "Image processing and Computer Vision : Segmentation, Boundary detection, Object Recognition, Image registration, Restoration, Compression. Using Variational and Bayesian methods, Markov random fields, Graphs"
+                ]
     }
   ],
   "skills": [],
@@ -66,87 +92,41 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "name": "DUALDF: A LIGHTWEIGHT PERSONALIZED SPEECH ENHANCEMENT SYSTEM OBTAINED THROUGH KNOWLEDGE DISTILLATION",
+      "publisher": "2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)",
+      "releaseDate": "",
+      "website": "https://academicpages.github.io/files/icassp2026.pdf",
+      "summary": "Article written after my internship at Orosound. We are still waiting for the final acceptance but the reviews are positive."
     }
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
+      "name": "Research project on StyleGAN2",
+      "category": "",
+      "date": "June 2024",
+      "url": "https://github.com/IvanKhodakov/Research-project-on-StyleGAN2",
+      "description": "Editing of face images by manipulating latent codes. To exhibit semantics I used PCA and SVMs."
+    },
+
+    {
+      "name": "Skin Lesion Classification - ISIC dataset",
+      "category": "",
+      "date": "April 2024",
+      "url": "https://github.com/IvanKhodakov/SkinLesionClassification",
+      "description": "Scored among the best in a Kaggle competition. The aim was to classify skin lesions into 9 classes. Tools Used: CNN, Resnet50, Pytorch, Data Augmentation, Feature Extraction."
+    },
+
+    {
+      "name": "Other Projects",
+      "category": "",
+      "date": "2023",
       "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "description": ["Predict the outcome of a football match : Cleaning data, feature engineering. Tools Used : XGBoost, Weights and Biases.",
+                      "Detection of JPEG forgeries in Python in image using algorithms like the DCT of the images.",
+                      "Creation of a mobile recipe application with carbon footprint computation."
+                    ]
     }
+
+
   ]
 }
