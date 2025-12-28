@@ -13,7 +13,7 @@ title                    : "Ivan Khodakov"
 title_separator          : "-"
 name                     : &name "Ivan Khodakov"
 description              : &description "Ivan Khodakov's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://ivan-khodakov.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://ivankhodakov.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "IvanKhodakov/ivankhodakov.github.io"
@@ -248,7 +248,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:
@@ -264,7 +264,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: true
   # _publications
   - scope:
@@ -273,7 +273,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: true
   # _portfolio
   - scope:
@@ -291,7 +291,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true
+      share: false
 
 
 # Sass/SCSS
