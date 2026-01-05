@@ -26,8 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Ivan Khodakov"
   pronouns         : # example: "she/her"  
-  bio              : "I’m a Computer Science student at ENS Lyon, 
-                      currently enrolled in a dual-degree program 
+  bio              : "I’m a Computer Science student doing a master’s degree at ENS Lyon, 
+                      and enrolled in a dual-degree program 
                       with Télécom Paris."
   location         : #"Earth"
   employer         : #"Red Brick University"
