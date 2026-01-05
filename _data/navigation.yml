@@ -13,7 +13,7 @@ main:
   #   url: /cv/
     
   - title: "CV"
-    url: /cv-json/
+    url: /cv/
 
   - title: "Publications"
     url: /publications/

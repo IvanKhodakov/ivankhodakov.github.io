@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -62,4 +62,4 @@ Portfolio
 * Other Projects, 2023
   * Predict the outcome of a football match : Cleaning data, feature engineering. Tools Used : XGBoost, Weights and Biases.
   * Detection JPEG compression and forgeries in Python in image using algorithms like the DCT of the images.
-  * Creation of a mobile recipe application with carbon footprint computation.
+  * Creation of a mobile recipe application with carbon footprint computation. -->
