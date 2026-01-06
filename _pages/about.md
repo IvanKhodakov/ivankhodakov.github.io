@@ -16,7 +16,7 @@ I use this website to share my projects and highlight the professional experienc
 ## Latest News
 
 * Looking for a 3-month research internship starting in May.
-* Waiting for the final acceptance of thr article written at the end of my internship at Orosound.
+* Waiting for the final acceptance of the article written at the end of my internship at Orosound.
 * Started studying at ENS Lyon (sept 2025)
 
 
